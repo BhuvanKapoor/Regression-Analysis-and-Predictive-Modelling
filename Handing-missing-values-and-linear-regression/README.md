@@ -3,7 +3,7 @@
 
 
 ``` r
-data  <- read.csv("/home/bhuvan-kapoor/Codes/R/MAT6002 | Regression Analysis/Health_data.csv")
+data  <- read.csv("/Datasets/Health_data.csv")
 data
 ```
 
